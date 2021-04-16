@@ -1,0 +1,15 @@
+sweep; ;print_stats
+eliminate -1;print_stats
+simplify -m nocomp;print_stats
+eliminate -1;print_stats
+sweep;print_stats
+eliminate 5;print_stats
+simplify -m nocomp;print_stats
+resub -a;print_stats
+fx;print_stats
+resub -a;print_stats
+sweep;print_stats
+eliminate -1;print_stats
+sweep;print_stats
+full_simplify -m nocomp;print_stats
+free_dc;print_stats
