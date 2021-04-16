@@ -1,0 +1,2 @@
+# ApproximateComputing-StocahsticComputing_ImageProcessingAlgorithms
+Implementation of summer research project: Integration of Approximate Computing and Stochastic Computing Implementations of Image Processing Algorithms
