@@ -1,4 +1,4 @@
-# ApproximateComputing-StocahsticComputing_ImageProcessingAlgorithms
+# Approximate Computing & Stocahstic Computing Image Processing Algorithms
 Inspired by EECS 478 Logic Circuit Synthesis & Optimization<br></br>
 
 Implementation of summer research project: Integration of Approximate Computing and Stochastic Computing Implementations of Image Processing Algorithms<br>
